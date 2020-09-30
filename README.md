@@ -1,6 +1,7 @@
 # tictactoe
 
-A new Flutter project.
+A new Flutter project. 
+A simple TicTacToe interactive game.
 
 ## Getting Started
 
